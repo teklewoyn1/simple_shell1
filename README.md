@@ -1,5 +1,5 @@
-This project is about simple_shell commands interpreter that can take input as a command and proccess the input yields output.
+This project is about simple_shell commands interpreter that can take inputs as a command and proccess the input and yields output.
 
-The owners of this project are:
+This is developed by:
 1. Teklewoyn Erdachew
 2. Selamawit G/yohannis
